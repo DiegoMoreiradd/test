@@ -1,0 +1,26 @@
+@import 'variables';
+@import 'mixins';
+
+//CSS Reset;
+@import 'reset';
+
+// Grid style;
+@import 'grid';
+
+// Header style
+@import 'header';
+
+//Button Back to Top
+@import 'button_top';
+
+// Home style
+@import 'home';
+
+//Responsive header style
+@import 'responsive_header';
+
+//Responsive style
+@import 'responsive_home';
+
+//Footer style
+@import 'footer';
